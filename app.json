@@ -1,7 +1,7 @@
 {
   "name": "Syenite-WaBot",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nimesh-piyumal/Syenite-WaBot",
+  "repository": "https://github.com/nimaxgg/enc-sense",
   "logo": "https://i.imghippo.com/files/dWEW1435yOg.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
