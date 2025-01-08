@@ -1,5 +1,5 @@
 module.exports = {
-    "SESSION_ID": "GENUX-sahaNAup",
+    "SESSION_ID": "GENUX-RnDVTTqg",
     "PREFIX": ".",
     "BOT_NAME": "SYENITE WABOT",
     "OWNER_NUMBER": "94786802371",
