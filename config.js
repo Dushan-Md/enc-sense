@@ -1,5 +1,5 @@
 module.exports = {
-    "SESSION_ID": "JSNZK64S",
+    "SESSION_ID": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=CyoBWRQS#ROGIQCGnX4Kpo6csL6nAL03Nc-8NUUQHiKIUWrEW84c",
     "PREFIX": ".",
     "BOT_NAME": "SYENITE WABOT",
     "OWNER_NUMBER": "94786802371",
